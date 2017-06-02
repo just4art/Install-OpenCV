@@ -41,5 +41,5 @@ install_dependency libvorbis-dev
 install_dependency libxvidcore-dev
 install_dependency x264
 install_dependency v4l-utils
-#install_dependency ffmpeg
+install_dependency ffmpeg
 install_dependency unzip
